@@ -1,2 +1,2 @@
 # sccraft.ru-website
-ScCraft.ru
+This repository for `sccraft.ru` website. See `gh-pages` branch.
