@@ -5,4 +5,4 @@ Please, select your language:
 |Language|Translate status|
 |--------|----------------|
 |English |Not planned     |
-|Russian (Русский)|Original (Translation is not need...)|
+|[Russian (Русский)](./ru.html)|Original (Translation is not need...)|
