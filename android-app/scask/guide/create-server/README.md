@@ -33,7 +33,7 @@
 <details>
   <summary>Выбор приложения для экспорта</summary>
 
-    ![export](./export.png)
+   ![export](./export.png)
 
 </details>
 
