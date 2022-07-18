@@ -1,4 +1,4 @@
-# Privacy policy
+# Privacy policy (ScAsk)
 
 Please, select your language:
 
