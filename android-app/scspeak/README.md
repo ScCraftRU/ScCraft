@@ -6,3 +6,4 @@
 
 [Исходный код](https://github.com/ScCraftRU/scspeak)
 
+[Инструкции](./guide)
