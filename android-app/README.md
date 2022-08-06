@@ -2,7 +2,7 @@
 
 Ниже приведён список Android-приложений которые я создавал.
 
-# [ArenaControl](https://arenacontrol.sccraft.ru)
+# [ArenaControl](./arenacontrol)
 
 Приложение позволяет управлять серверами Minecraft, размещёнными на хостинге [MyArena.ru](https://www.myarena.ru/game_mc.html?idp=604611) (Ссылка реферальная).
 
