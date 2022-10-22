@@ -10,6 +10,6 @@
 
 # Контакты
 
-Чиварзин Александр Евгеньевич https://Aleksandr.Chivarzin.RU
+Чиварзин Александр Евгеньевич [https://Aleksandr.Chivarzin.RU](https://Aleksandr.Chivarzin.RU)
 
-По всем вопросам писать на почту admin@ScCraft.ru
+По всем вопросам писать на почту [admin@ScCraft.ru](mailto:admin@sccraft.ru)
